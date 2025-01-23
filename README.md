@@ -39,7 +39,7 @@ Follow these steps to compile and play the game on your local machine.
 
 1. Compile the source code using your C compiler:
    ```bash
-   gcc -o tic_tac_toe main.c
+   gcc -o tic_tac_toe tictactoe.c
    ```
 
 ### Running the Game
@@ -62,7 +62,7 @@ Follow these steps to compile and play the game on your local machine.
 
 ```
 Tic-Tac-Toe/
-├── main.c           # Main game logic
+├── tictactoe.c      # Main game logic
 ├── README.md        # Project documentation
 └── LICENSE          # License information
 ```
